@@ -1,0 +1,21 @@
+[2020-04-10 20:09:50] [info] Start Program:
+Path:"C:\\Users\\ghior\\Desktop\\programare orientata obiect (C)\\Laborator\\oop_lab6-7_iter2\\x64\\Debug\\oop_lab6-7.exe"
+Arguments:
+Working directory: "C:\\Users\\ghior\\Desktop\\programare orientata obiect (C)\\Laborator\\oop_lab6-7_iter2\\oop_lab6-7\\"
+Modules: Selected: C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab6-7_iter2\x64\Debug\oop_lab6-7.exe Excluded: 
+Sources: Selected: C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab6-7_iter2\oop_lab6-7 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\ghior\AppData\Local\Temp\moiekmnh.foh 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-04-10 20:09:50] [info] Module: C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab6-7_iter2\x64\Debug\oop_lab6-7.exe is selected because it matches selected pattern: C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab6-7_iter2\x64\Debug\oop_lab6-7.exe
+[2020-04-10 20:09:50] [info] ----------------------------------------------------
+[2020-04-10 20:09:50] [info] Coverage binary generated in file: C:\Users\ghior\AppData\Local\Temp\moiekmnh.foh
+[2020-04-10 20:09:50] [info] ----------------------------------------------------
