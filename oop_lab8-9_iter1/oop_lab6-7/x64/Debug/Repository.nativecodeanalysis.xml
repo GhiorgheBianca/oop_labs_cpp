@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+      <FILENAME>LinkedList.h</FILENAME>
+      <LINE>210</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>28182</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer. 'prev' contains the same NULL value as 'nodCurent-&gt;urmator' did. See line 192 for an earlier location where this can occur</DESCRIPTION>
+    <FUNCTION>Lista&lt;Disciplina&gt;::erase</FUNCTION>
+    <DECORATED>?erase@?$Lista@VDisciplina@@@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>181</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>182</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>183</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>184</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>186</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>187</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>188</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>190</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>191</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>192</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>193</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>190</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>191</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>192</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>193</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>190</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>196</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>199</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>204</LINE>
+        <COLUMN>29</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'prev' may be NULL (Skip this branch)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\Laborator\oop_lab8-9\oop_lab6-7\</FILEPATH>
+        <FILENAME>LinkedList.h</FILENAME>
+        <LINE>210</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'prev' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
