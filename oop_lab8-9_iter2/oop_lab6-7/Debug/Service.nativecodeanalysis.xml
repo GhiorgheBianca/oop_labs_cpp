@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.h</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26433</DEFECTCODE>
+    <DESCRIPTION>Function 'Repository::getDiscipline' should be marked with 'override' (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::getDiscipline</FUNCTION>
+    <DECORATED>?getDiscipline@Repository@@UAEABV?$vector@VDisciplina@@V?$allocator@VDisciplina@@@std@@@std@@XZ</DECORATED>
+    <FUNCLINE>85</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.h</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26443</DEFECTCODE>
+    <DESCRIPTION>Overriding destructor should not use explicit 'override' or 'virtual' specifiers (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::{dtor}</FUNCTION>
+    <DECORATED>??1Repository@@UAE@XZ</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.h</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Repository', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Repository::{dtor}</FUNCTION>
+    <DECORATED>??1Repository@@UAE@XZ</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class VirtualRepository', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>VirtualRepository::{dtor}</FUNCTION>
+    <DECORATED>??1VirtualRepository@@UAE@XZ</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Undo.h</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'UndoAdauga::UndoAdauga' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>UndoAdauga::{ctor}</FUNCTION>
+    <DECORATED>??0UndoAdauga@@QAE@AAVVirtualRepository@@ABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Undo.h</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class ActiuneUndo', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>ActiuneUndo::{dtor}</FUNCTION>
+    <DECORATED>??1ActiuneUndo@@UAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Undo.h</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'UndoSterge::UndoSterge' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>UndoSterge::{ctor}</FUNCTION>
+    <DECORATED>??0UndoSterge@@QAE@AAVVirtualRepository@@ABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>38</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Undo.h</FILENAME>
+      <LINE>56</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'UndoModifica::UndoModifica' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>UndoModifica::{ctor}</FUNCTION>
+    <DECORATED>??0UndoModifica@@QAE@AAVVirtualRepository@@ABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>56</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Undo.h</FILENAME>
+      <LINE>76</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'UndoAdauga_inContract::UndoAdauga_inContract' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>UndoAdauga_inContract::{ctor}</FUNCTION>
+    <DECORATED>??0UndoAdauga_inContract@@QAE@AAVVirtualRepository@@ABVDisciplina@@AAVContract@@@Z</DECORATED>
+    <FUNCLINE>76</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'id' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Service::addDisciplinaService</FUNCTION>
+    <DECORATED>?addDisciplinaService@Service@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>56</COLUMN>
+    </SFA>
+    <DEFECTCODE>26472</DEFECTCODE>
+    <DESCRIPTION>Don't use a static_cast for arithmetic conversions. Use brace initialization, gsl::narrow_cast or gsl::narrow (type.1).</DESCRIPTION>
+    <FUNCTION>Service::addDisciplinaService</FUNCTION>
+    <DECORATED>?addDisciplinaService@Service@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>82</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function '&lt;lambda_da9c5a9d2bf43b2051f53691eb210372&gt;::operator()' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Service::cautaDisciplina::&lt;lambda_da9c5a9d2bf43b2051f53691eb210372&gt;::()</FUNCTION>
+    <DECORATED>??R&lt;lambda_da9c5a9d2bf43b2051f53691eb210372&gt;@@QBE_NABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>82</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>123</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Service', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Service::{dtor}</FUNCTION>
+    <DECORATED>??1Service@@QAE@XZ</DECORATED>
+    <FUNCLINE>123</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>172</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'n' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Service::random</FUNCTION>
+    <DECORATED>?random@Service@@AAE?AV?$vector@HV?$allocator@H@std@@@std@@HH@Z</DECORATED>
+    <FUNCLINE>166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>174</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'j' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Service::random</FUNCTION>
+    <DECORATED>?random@Service@@AAE?AV?$vector@HV?$allocator@H@std@@@std@@HH@Z</DECORATED>
+    <FUNCLINE>166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>172</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'aux' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Service::random</FUNCTION>
+    <DECORATED>?random@Service@@AAE?AV?$vector@HV?$allocator@H@std@@@std@@HH@Z</DECORATED>
+    <FUNCLINE>166</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>aux</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>175</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>Service::random</FUNCTION>
+    <DECORATED>?random@Service@@AAE?AV?$vector@HV?$allocator@H@std@@@std@@HH@Z</DECORATED>
+    <FUNCLINE>166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>176</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>Service::random</FUNCTION>
+    <DECORATED>?random@Service@@AAE?AV?$vector@HV?$allocator@H@std@@@std@@HH@Z</DECORATED>
+    <FUNCLINE>166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>176</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>Service::random</FUNCTION>
+    <DECORATED>?random@Service@@AAE?AV?$vector@HV?$allocator@H@std@@@std@@HH@Z</DECORATED>
+    <FUNCLINE>166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Service.cpp</FILENAME>
+      <LINE>177</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>Service::random</FUNCTION>
+    <DECORATED>?random@Service@@AAE?AV?$vector@HV?$allocator@H@std@@@std@@HH@Z</DECORATED>
+    <FUNCLINE>166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

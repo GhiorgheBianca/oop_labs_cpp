@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Domain.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'Contract::clearContract' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Contract::clearContract</FUNCTION>
+    <DECORATED>?clearContract@Contract@@QAEXXZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

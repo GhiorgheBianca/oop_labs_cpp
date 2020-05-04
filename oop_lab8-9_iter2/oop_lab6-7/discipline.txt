@@ -1,0 +1,4 @@
+1,Sisteme de operare,5,optionala,Boian
+2,Geometrie,4,obligatorie,Blaga
+3,Fundamentele programarii,6,obligatorie,Czibula
+4,Fundamentele programarii,6,obligatorie,Molnar

@@ -1,0 +1,6 @@
+﻿  Domain.cpp
+  main.cpp
+  Compiling...
+c1xx : fatal error C1260: The plugins 'PREfast espX buffer-access analysis defect module' and 'PREfast espX buffer-access analysis defect module' share the same id. It is not supported to load the same plugin twice.
+c1xx : fatal error C1260: The plugins 'PREfast espX buffer-access analysis defect module' and 'PREfast espX buffer-access analysis defect module' share the same id. It is not supported to load the same plugin twice.
+  Generating Code...

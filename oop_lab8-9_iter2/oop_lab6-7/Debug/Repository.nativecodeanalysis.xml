@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.h</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26433</DEFECTCODE>
+    <DESCRIPTION>Function 'Repository::getDiscipline' should be marked with 'override' (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::getDiscipline</FUNCTION>
+    <DECORATED>?getDiscipline@Repository@@UAEABV?$vector@VDisciplina@@V?$allocator@VDisciplina@@@std@@@std@@XZ</DECORATED>
+    <FUNCLINE>85</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.h</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26443</DEFECTCODE>
+    <DESCRIPTION>Overriding destructor should not use explicit 'override' or 'virtual' specifiers (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::{dtor}</FUNCTION>
+    <DECORATED>??1Repository@@UAE@XZ</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.h</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Repository', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Repository::{dtor}</FUNCTION>
+    <DECORATED>??1Repository@@UAE@XZ</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class VirtualRepository', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>VirtualRepository::{dtor}</FUNCTION>
+    <DECORATED>??1VirtualRepository@@UAE@XZ</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'f' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::addDisciplina</FUNCTION>
+    <DECORATED>?addDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'err_prob' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::addDisciplina</FUNCTION>
+    <DECORATED>?addDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Repository::addDisciplina</FUNCTION>
+    <DECORATED>?addDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26433</DEFECTCODE>
+    <DESCRIPTION>Function 'Repository::addDisciplina' should be marked with 'override' (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::addDisciplina</FUNCTION>
+    <DECORATED>?addDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'f' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::updateDisciplina</FUNCTION>
+    <DECORATED>?updateDisciplina@Repository@@UAEXVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'err_prob' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::updateDisciplina</FUNCTION>
+    <DECORATED>?updateDisciplina@Repository@@UAEXVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'contor' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::updateDisciplina</FUNCTION>
+    <DECORATED>?updateDisciplina@Repository@@UAEXVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Repository::updateDisciplina</FUNCTION>
+    <DECORATED>?updateDisciplina@Repository@@UAEXVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26433</DEFECTCODE>
+    <DESCRIPTION>Function 'Repository::updateDisciplina' should be marked with 'override' (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::updateDisciplina</FUNCTION>
+    <DECORATED>?updateDisciplina@Repository@@UAEXVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'f' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina</FUNCTION>
+    <DECORATED>?deleteDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'err_prob' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina</FUNCTION>
+    <DECORATED>?deleteDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'contor' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina</FUNCTION>
+    <DECORATED>?deleteDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina</FUNCTION>
+    <DECORATED>?deleteDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26433</DEFECTCODE>
+    <DESCRIPTION>Function 'Repository::deleteDisciplina' should be marked with 'override' (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina</FUNCTION>
+    <DECORATED>?deleteDisciplina@Repository@@UAEXABVDisciplina@@@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26433</DEFECTCODE>
+    <DESCRIPTION>Function 'Repository::findPosition' should be marked with 'override' (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::findPosition</FUNCTION>
+    <DECORATED>?findPosition@Repository@@UBEHHABV?$vector@VDisciplina@@V?$allocator@VDisciplina@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>61</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'f' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina_fromContract</FUNCTION>
+    <DECORATED>?deleteDisciplina_fromContract@Repository@@UAEXABVDisciplina@@AAVContract@@@Z</DECORATED>
+    <FUNCLINE>74</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>76</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'err_prob' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina_fromContract</FUNCTION>
+    <DECORATED>?deleteDisciplina_fromContract@Repository@@UAEXABVDisciplina@@AAVContract@@@Z</DECORATED>
+    <FUNCLINE>74</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina_fromContract</FUNCTION>
+    <DECORATED>?deleteDisciplina_fromContract@Repository@@UAEXABVDisciplina@@AAVContract@@@Z</DECORATED>
+    <FUNCLINE>74</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26433</DEFECTCODE>
+    <DESCRIPTION>Function 'Repository::deleteDisciplina_fromContract' should be marked with 'override' (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::deleteDisciplina_fromContract</FUNCTION>
+    <DECORATED>?deleteDisciplina_fromContract@Repository@@UAEXABVDisciplina@@AAVContract@@@Z</DECORATED>
+    <FUNCLINE>74</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>155</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'f' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>RepoFile::deleteFileContent</FUNCTION>
+    <DECORATED>?deleteFileContent@RepoFile@@QAEXXZ</DECORATED>
+    <FUNCLINE>154</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>156</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'err_prob' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>RepoFile::deleteFileContent</FUNCTION>
+    <DECORATED>?deleteFileContent@RepoFile@@QAEXXZ</DECORATED>
+    <FUNCLINE>154</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>155</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>RepoFile::deleteFileContent</FUNCTION>
+    <DECORATED>?deleteFileContent@RepoFile@@QAEXXZ</DECORATED>
+    <FUNCLINE>154</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ghior\Desktop\programare orientata obiect (C)\GitHub\oop_labs_cpp\oop_lab8-9_iter2\oop_lab6-7\</FILEPATH>
+      <FILENAME>Repository.cpp</FILENAME>
+      <LINE>166</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26433</DEFECTCODE>
+    <DESCRIPTION>Function 'Repository::save_toHTML' should be marked with 'override' (c.128).</DESCRIPTION>
+    <FUNCTION>Repository::save_toHTML</FUNCTION>
+    <DECORATED>?save_toHTML@Repository@@UAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VContract@@@Z</DECORATED>
+    <FUNCLINE>166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
